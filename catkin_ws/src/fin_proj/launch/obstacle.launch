@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="fin_proj" type="obstacle.py" name="obstacle"/> 
+</launch>

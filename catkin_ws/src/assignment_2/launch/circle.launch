@@ -1,0 +1,8 @@
+<launch>
+	<node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+	<node pkg="assignment_2" type="make_circle_server.py" name="circle_server" /> 
+	<node pkg="assignment_2" type="circle.py" name="circle" >
+		<param name="r" value="2"/>
+		<param name="s" value="1"/>
+	</node>	
+</launch>

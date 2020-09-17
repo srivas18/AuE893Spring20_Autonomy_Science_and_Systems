@@ -1,0 +1,8 @@
+prefix=/home/sid/AuE893Spring20_Siddhant/catkin_ws/install
+
+Name: people_msgs
+Description: Description of people_msgs
+Version: 1.1.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs std_msgs
