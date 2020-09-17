@@ -1,1 +1,2 @@
 # AuE893Spring20_Autonomy_Science_and_Systems
+This repository contains all the code files and their explanation that were done during the course of this subject during my Spring 2020 semester while I was pursuing Master's in Automotive Engineering from Clemson University International Center for Automotive Research (CU-ICAR). The repo will contain all the files related to ROS to run the packages and build the environment.
