@@ -1,3 +1,0 @@
-<launch>
-        <node pkg="fin_proj" type="leg_follower.py" name="lf"/>
-</launch>

@@ -1,3 +1,0 @@
-<launch>
-  <node pkg="assignment5_trackingandfollowing" type="follow_line_step_hsv_realttbot.py" name="follow_line_step_realttbot"/> 
-</launch>
