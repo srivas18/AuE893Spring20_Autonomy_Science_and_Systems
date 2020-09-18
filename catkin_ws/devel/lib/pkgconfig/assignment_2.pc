@@ -1,8 +1,0 @@
-prefix=/home/sid/AuE893Spring20_Siddhant/catkin_ws/devel
-
-Name: assignment_2
-Description: Description of assignment_2
-Version: 0.0.0
-Cflags: -I/home/sid/AuE893Spring20_Siddhant/catkin_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: 
