@@ -22,7 +22,7 @@ _turtlebot3_burger.gazebo.xacro turtlebot3_burger.urdf.xacro_
 
 
 --------------------------------------------------------------------------------------
-###### TINY YOLO PACKAGE INSTALLATION
+##### TINY YOLO PACKAGE INSTALLATION
 
 Tiny Yolo package was installed from https://github.com/leggedrobotics/darknet_ros
 
